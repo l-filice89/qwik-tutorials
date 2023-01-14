@@ -11,6 +11,7 @@ export default component$(() => {
           <ul>
             <li><Link href="/basic-component">Basic component</Link></li>
             <li><Link href="/state-management">State management</Link></li>
+            <li><Link href="/event-listeners">Event listeners</Link></li>
           </ul>
         </div>
     );
