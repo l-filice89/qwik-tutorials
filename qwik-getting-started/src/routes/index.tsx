@@ -12,6 +12,7 @@ export default component$(() => {
             <li><Link href="/basic-component">Basic component</Link></li>
             <li><Link href="/state-management">State management</Link></li>
             <li><Link href="/event-listeners">Event listeners</Link></li>
+            <li><Link href="/fetching-resources-on-state-change">Fetching resources on state change</Link></li>
           </ul>
         </div>
     );
