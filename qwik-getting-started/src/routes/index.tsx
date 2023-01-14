@@ -10,6 +10,7 @@ export default component$(() => {
             </h1>
           <ul>
             <li><Link href="/basic-component">Basic component</Link></li>
+            <li><Link href="/state-management">State management</Link></li>
           </ul>
         </div>
     );
