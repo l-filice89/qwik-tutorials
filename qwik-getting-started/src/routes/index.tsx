@@ -15,6 +15,9 @@ export default component$(() => {
         <li>
           <Link href="/binding-expressions">Binding expressions</Link>
         </li>
+        <li>
+          <Link href="/composing-components">Composing components</Link>
+        </li>
       </ul>
     </div>
   );
