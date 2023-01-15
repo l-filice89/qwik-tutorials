@@ -12,6 +12,9 @@ export default component$(() => {
         <li>
           <Link href="/listening-on-events">Listening on events</Link>
         </li>
+        <li>
+          <Link href="/listening-on-document-window">Listening on document window</Link>
+        </li>
       </ul>
     </div>
   );
