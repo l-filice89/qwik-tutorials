@@ -15,6 +15,9 @@ export default component$(() => {
         <li>
           <Link href="/listening-on-document-window">Listening on document window</Link>
         </li>
+        <li>
+          <Link href="/preventing-default-behaviour">Preventing default behaviour</Link>
+        </li>
       </ul>
     </div>
   );
