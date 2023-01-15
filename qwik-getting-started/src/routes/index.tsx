@@ -18,6 +18,9 @@ export default component$(() => {
         <li>
           <Link href="/composing-components">Composing components</Link>
         </li>
+        <li>
+          <Link href="/inline-components">Inline components</Link>
+        </li>
       </ul>
     </div>
   );
